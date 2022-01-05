@@ -1,0 +1,89 @@
+   #pill{
+    color: #CB238D;
+    font-size: 20px;
+    background-color: rgba(210, 172, 209, 0.44);
+    border-radius: 7px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+
+  #bsign{
+      padding-left: 12px;
+      padding-right: 12px;
+      padding-top: 8px;
+      padding-bottom: 8px;
+  }
+
+  #bsign:hover{
+    outline: none;
+    color: white;
+    background-color: #D2ACD1; 
+  }
+
+  #getstart{
+      padding-left: 12px;
+      padding-right: 12px;
+      padding-top: 8px;
+      padding-bottom: 8px;
+      color: white;
+      background-color: #5E28F8;
+  }
+
+  #getstart:hover{
+    background-color: black;
+  }
+
+  #play{
+    background-color: #FFC0AB;
+    padding: 10px;
+    text-align: center;
+  }
+
+   #choose1{
+      padding-left: 12px;
+      padding-right: 12px;
+      padding-top: 8px;
+      padding-bottom: 8px;
+      color: white;
+      background-color: #F6D37A;
+  }
+
+  #choose1:hover{
+    background-color: black;
+  }
+
+   #choose2{
+      padding-left: 12px;
+      padding-right: 12px;
+      padding-top: 8px;
+      padding-bottom: 8px;
+      color: white;
+      background-color: #FFB49C;
+  }
+
+  #choose2:hover{
+    background-color: black;
+  }
+
+   #choose3{
+      padding-left: 12px;
+      padding-right: 12px;
+      padding-top: 8px;
+      padding-bottom: 8px;
+      color: white;
+      background-color: #BD9BBC;
+  }
+
+  #choose3:hover{
+    background-color: black;
+  }
+
+  #catchphrase1{
+    color: #6334E9;
+  }
+
+  #catchphrase2{
+    color: #C90D3A;
+  }
